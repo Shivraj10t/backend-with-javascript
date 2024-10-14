@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-backend",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0",
+  "description": "backend lernning project.",
+  "main": "index.js",
+  "keywords": [
+    "javascript",
+    "backend",
+    "shivarj"
+  ],
+  "author": "shivraj tiwaskar",
+  "license": "ISC"
+}
