@@ -2,8 +2,9 @@
   "name": "nodejs-backend",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
+  "type": "module",
   "version": "1.0.0",
   "description": "backend lernning project.",
   "main": "index.js",
@@ -13,5 +14,8 @@
     "shivarj"
   ],
   "author": "shivraj tiwaskar",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
 }
